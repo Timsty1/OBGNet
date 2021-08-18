@@ -7,7 +7,7 @@ Code for ACM MM 2021 paper "Occlusion-aware Bi-directional Guided Network for Li
 
 ## Datasets
 
-We train and evaluate our model on [DUTLF-v2] (https://github.com/OIPLab-DUT/DUTLF-V2) dataset. 
+We train and evaluate our model on [DUTLF-v2](https://github.com/OIPLab-DUT/DUTLF-V2) dataset. 
 
 ## Requirements
 
