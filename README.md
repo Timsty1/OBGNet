@@ -31,7 +31,7 @@ If you want to retrain our model,  the process is as follows:
 
    `nohup sh train_start.sh > log/xxx.txt 2>&1 &`
 
-**Please note that the 'batch_size' should be larger than or equal to 16 for model generalization.**
+**Please note that the 'batch_size' should be greater than or equal to 16 for model generalization.**
 
 ## Test
 
